@@ -1,7 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehamishra2006&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehamishra2006&layout=compact)
-
 <h1 align="center">Hi there, I'm 👋 Sneha Mishra</h1>
 <h3 align="center">B.Tech Student | DSA Learner | MERN Developer</h3>
 
